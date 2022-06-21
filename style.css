@@ -31,3 +31,10 @@ body{
   padding: 10px;
   justify-content: space-around;
 }
+@media (max-width: 1000px){
+  #bars{
+    transform: rotate(270deg);
+    margin-top: 20%;
+  }
+
+}
